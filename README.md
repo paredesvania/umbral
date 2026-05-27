@@ -57,7 +57,7 @@ La instalación se monta sobre una mesa. El computador corre TouchDesigner y pro
 
 | | |
 |---|---|
-| **Software** | TouchDesigner 2026 |
+| **Software** | TouchDesigner 2025 |
 | **Tracking** | MediaPipe CHOP |
 | **Cámara** | Webcam o cámara USB |
 | **Lenguajes** | GLSL / Python |
