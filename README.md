@@ -48,8 +48,8 @@ La instalación se monta sobre una mesa. El computador corre TouchDesigner y pro
 
 | | |
 |---|---|
-| ![preview 1](images/preview1.jpg) | ![preview 2](images/preview2.jpg) |
-| ![preview 3](images/preview3.jpg) | ![preview 4](images/preview4.jpg) |
+| ![preview 1](imagenes/umbral1.png) | ![preview 2](imagenes/umbral2.png) |
+| ![preview 3](imagenes/umbral3.png) | ![preview 4](imagenes/umbral4.png)|
 
 ---
 
